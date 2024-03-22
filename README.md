@@ -1,6 +1,25 @@
 # NLW-Expert-Notes
-Este projeto envolveu o desenvolvimento de uma aplicação front-end utilizando ReactJS, com ênfase na aplicação dos conceitos de Propriedades, Estados e Componentes. Além disso, foram aplicadas tipagens utilizando Typescript para garantir uma codificação mais robusta e segura.
 
-Para a construção da aplicação, utilizou-se o framework Vite como ferramenta de build, proporcionando um ambiente de desenvolvimento rápido e eficiente. A interface foi tornada responsiva com o auxílio do TailwindCSS, garantindo uma experiência consistente em diferentes dispositivos e tamanhos de tela.
+O NLW-Expert-Notes foi um projeto focado no desenvolvimento de uma aplicação front-end usando ReactJS, onde exploramos os conceitos fundamentais de Propriedades, Estados e Componentes. 
 
-Para ampliar a funcionalidade da aplicação, foram integradas APIs da Web como Web Storage, permitindo armazenamento local de dados de forma eficiente, e Web Speech, possibilitando interações por voz. Isso proporcionou uma experiência de usuário mais rica e dinâmica.
+## Tecnologias Utilizadas:
+- ReactJS
+- Typescript
+- Vite
+- TailwindCSS
+- APIs da Web (Web Storage, Web Speech)
+
+## Objetivos do Projeto:
+- Explorar ReactJS e seus conceitos fundamentais
+- Implementar tipagem com Typescript para um código mais robusto e seguro
+- Utilizar o framework Vite para um ambiente de desenvolvimento ágil e eficiente
+- Tornar a interface responsiva com o TailwindCSS
+- Enriquecer a funcionalidade da aplicação com APIs da Web
+
+## Aprendizados:
+- Aprofundamento em ReactJS e Typescript
+- Eficiência no desenvolvimento com o framework Vite
+- Criação de interfaces responsivas com o TailwindCSS
+- Integração efetiva de APIs da Web
+
+Para garantir uma experiência consistente em diferentes dispositivos, tornamos a interface responsiva com o TailwindCSS. Além disso, enriquecemos a funcionalidade da aplicação integrando APIs da Web, como Web Storage para armazenamento local de dados e Web Speech para interações por voz, proporcionando uma experiência de usuário dinâmica e rica.
